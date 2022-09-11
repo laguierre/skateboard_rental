@@ -2,7 +2,7 @@
 
 Pretty Skateboard Rental App made with Flutter. Using Animation Controller and nested Animated Widgets.
 Inspired in Outcrowd's design "Up. - Design for Mobile App" [link](https://dribbble.com/shots/15083025-Up-Design-for-Mobile-App).
-The full video in my Youtube channel [link]() and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
+The full video in my Youtube channel [link](https://youtube.com/shorts/y6peVWWXoMQ?feature=share) and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
 - Animation Controller.
 - AnimatedContainer.
 - AnimatedPositioned.
